@@ -1,6 +1,6 @@
 # snap_cal
 
-A new Flutter project.
+An application to simplify adding events to your calendar. Simply take a picture of an event flyer through the app and you will be presented with a view of a calendar event with the information you want. You can choose to export the event to your personal calendar app for convenience.
 
 ## Getting Started
 
